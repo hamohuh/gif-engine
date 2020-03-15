@@ -31,6 +31,7 @@ body{
     width: 90%;
     margin: 0 auto;
     padding-top: 15px;
+    padding-bottom: 15px;
     background-color: tomato;
     border-radius: 5px;
 }
@@ -38,4 +39,9 @@ body{
 .gif-img{
     margin-left: 2.5%;
     width: 30%;
+}
+
+.no-results{
+    text-align: center;
+    font-size: 20px;
 }
