@@ -4,7 +4,7 @@ import React from 'react'
 function Body(props) {
     const { images } = props;
     return (
-        <div>
+        <div className='images'>
             {images.map((img, i) => <img className='gif-img' key={i} src={img.images.original.url}></img>)}
         </div>
     )
