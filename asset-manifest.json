@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/gif-engine/static/css/main.f5adc0e3.chunk.css",
-    "main.js": "/gif-engine/static/js/main.fc4e95b7.chunk.js",
-    "main.js.map": "/gif-engine/static/js/main.fc4e95b7.chunk.js.map",
+    "main.css": "/gif-engine/static/css/main.b6d37519.chunk.css",
+    "main.js": "/gif-engine/static/js/main.c023392b.chunk.js",
+    "main.js.map": "/gif-engine/static/js/main.c023392b.chunk.js.map",
     "runtime-main.js": "/gif-engine/static/js/runtime-main.64916f17.js",
     "runtime-main.js.map": "/gif-engine/static/js/runtime-main.64916f17.js.map",
     "static/js/2.f011c99f.chunk.js": "/gif-engine/static/js/2.f011c99f.chunk.js",
     "static/js/2.f011c99f.chunk.js.map": "/gif-engine/static/js/2.f011c99f.chunk.js.map",
     "index.html": "/gif-engine/index.html",
-    "precache-manifest.2f9881633078fb1c7f8ab0b48473331d.js": "/gif-engine/precache-manifest.2f9881633078fb1c7f8ab0b48473331d.js",
+    "precache-manifest.5b6a53f23d0353261ce27c7221d285d1.js": "/gif-engine/precache-manifest.5b6a53f23d0353261ce27c7221d285d1.js",
     "service-worker.js": "/gif-engine/service-worker.js",
-    "static/css/main.f5adc0e3.chunk.css.map": "/gif-engine/static/css/main.f5adc0e3.chunk.css.map",
+    "static/css/main.b6d37519.chunk.css.map": "/gif-engine/static/css/main.b6d37519.chunk.css.map",
     "static/js/2.f011c99f.chunk.js.LICENSE.txt": "/gif-engine/static/js/2.f011c99f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.64916f17.js",
     "static/js/2.f011c99f.chunk.js",
-    "static/css/main.f5adc0e3.chunk.css",
-    "static/js/main.fc4e95b7.chunk.js"
+    "static/css/main.b6d37519.chunk.css",
+    "static/js/main.c023392b.chunk.js"
   ]
 }
